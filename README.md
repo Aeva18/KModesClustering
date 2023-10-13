@@ -1,4 +1,4 @@
 # KModesClustering
-As part of preliminary round in DAC(Data Analytics Competition) held by ITS in 2022, with given dataset, we try to make a Clustering for students to know the segmentation of students in that university.
+As part of preliminary round in DAC(Data Analytics Competition) held by ITS in 2022, with given dataset, we try to make a Clustering for students to know the segmentation of students in that university. Why did we want to do the segmentation? Our main target is to assist the academic advisor in determine student groups need more academic guidance intensely so that students can achieve targets, which is graduate on time based on characteristic analysis using the K-Modes algorithm method.
 
 But after we did some experiment to know the pattern of the dataset, it found out that the datasets is pretty much dummy, as the correlation among all independent variable is 0 and well, the segmentations didn't turn out that good because of it. But thankfully, with all the provided explanation and hardwork to create the research paper, our team advanced to finals :)
